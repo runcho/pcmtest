@@ -1,0 +1,18 @@
+{
+  "_version": "1.0",
+  "identification": {
+    "id": "Candidate",
+    "namespace": "",
+    "entityType": "role"
+  },
+  "payload": {
+    "catalogs": [{
+      "namespace": "",
+      "id": "hcp://pcmsitetemplates/partnerportal/catalogs/candidate.json"
+    }],
+    "groups": [{
+      "namespace": "",
+      "id": "hcp://pcmsitetemplates/partnerportal/groups/overview.json"
+    }]
+  }
+}
